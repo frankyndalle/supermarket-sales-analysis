@@ -1,0 +1,10 @@
+[
+  {
+    "prompt": "Evaluate customer behavior across different branch locations and identify which branch drives the highest member loyalty transactions.",
+    "response": "Market Research Evaluation: Analyzing transaction distributions across branches indicates that Branch C achieves the highest volume of Member loyalty transactions, driven by electronics and health-related purchases. Regular member sign-ups outpace non-members by 14% at this location."
+  },
+  {
+    "prompt": "Perform a comparative analysis of payment methods across gender demographics to identify strategic checkout preferences.",
+    "response": "Market Research Evaluation: Credit card usage is evenly distributed across genders, whereas Ewallet preferences show a slight concentration among female shoppers in fashion and cosmetic accessories. Cash transactions remain highest among walk-in customers making lower-value purchases."
+  }
+]
