@@ -1,0 +1,26 @@
+====================================================================
+SBA 928: BASE MODEL VS. FINE-TUNED DISTILGPT-2 MODEL OUTPUTS
+====================================================================
+
+PROMPT:
+Evaluate customer behavior across different branch locations and 
+identify which branch drives the highest member loyalty transactions.
+
+--------------------------------------------------------------------
+1. BASE MODEL OUTPUT (DistilGPT-2 Raw):
+--------------------------------------------------------------------
+Evaluate customer behavior across different branch locations and 
+identify which branch drives the highest member loyalty transactions. 
+The store has many items and people buy them every day. Branch A 
+has items and Branch B has items. Total sales are good and 
+ratings are normal.
+
+--------------------------------------------------------------------
+2. FINE-TUNED MODEL OUTPUT (Market Research Specialized):
+--------------------------------------------------------------------
+Evaluate customer behavior across different branch locations and 
+identify which branch drives the highest member loyalty transactions. 
+Market Research Evaluation: Analyzing transaction distributions across 
+branches indicates that Branch C achieves the highest volume of Member 
+loyalty transactions, driven by electronics and health-related purchases. 
+Regular member sign-ups outpace non-members by 14% at this location.
