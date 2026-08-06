@@ -1,0 +1,14 @@
+[
+    {
+        "prompt": "Market Research Objective: Analyze customer behavior trends and payment preferences across branches. Question: Which payment methods are most popular among Member customers versus Normal customers?",
+        "expected_response": "Member customers show a higher preference for E-wallet transactions in Branch A, whereas Normal customers frequently use Cash in Branch C, indicating a demographic shift in payment adoption."
+    },
+    {
+        "prompt": "Market Research Objective: Evaluate branch performance and gross income generation. Question: How do gross margins compare between Branch A and Branch B for electronic accessories?",
+        "expected_response": "Branch A achieves a higher gross income on electronic accessories due to higher transaction volume, while Branch B records higher average basket sizes despite lower overall foot traffic."
+    },
+    {
+        "prompt": "Market Research Objective: Assess product line profitability. Question: Which product line yields the highest average customer rating and gross margin combined?",
+        "expected_response": "Food and beverages combined with Health and beauty show consistent high ratings above 4.5/5.0 and stable gross margins across all three branches."
+    }
+]
