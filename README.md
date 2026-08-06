@@ -1,6 +1,6 @@
 # Supermarket Sales Analysis & Fine-Tuning (SBA 928)
 
-This repository contains the complete reproducible code, training splits, validation splits, and evaluation scripts for the SBA 928 market-research fine-tuning assignment using DistilGPT-2.
+This repository contains the complete reproducible code, training splits (`train.json`), validation splits (`val.json`), and evaluation scripts for the SBA 928 market-research fine-tuning assignment using DistilGPT-2.
 
 ## Project Structure
 - `train.json` - Training dataset containing structured market-research prompts and expected responses.
