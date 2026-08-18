@@ -1,0 +1,13 @@
+[project]
+name = "supermarket-sales-analysis"
+version = "0.1.0"
+description = "SBA 928 - Enhancing Market Research with AI Prompt Engineering"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "transformers>=4.38.0",
+    "datasets>=2.18.0",
+    "torch>=2.0.0",
+    "scikit-learn>=1.2.0",
+    "pandas>=2.0.0"
+]
