@@ -1,1 +1,602 @@
-[{"text": "Branch Performance Evaluation: Branch B shows strong grocery sales."}]
+[
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Sports and travel, Total Revenue: $144.96, Gross Income: $6.90, Rating: 7.9/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Electronic accessories, Total Revenue: $253.68, Gross Income: $12.08, Rating: 5.1/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Fashion accessories, Total Revenue: $495.32, Gross Income: $23.59, Rating: 6.9/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Fashion accessories, Total Revenue: $462.67, Gross Income: $22.03, Rating: 8.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Electronic accessories, Total Revenue: $714.33, Gross Income: $34.02, Rating: 8.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Home and lifestyle, Total Revenue: $325.37, Gross Income: $15.49, Rating: 4.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Sports and travel, Total Revenue: $195.68, Gross Income: $9.32, Rating: 8.5/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $210.97, Gross Income: $10.05, Rating: 9.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Health and beauty, Total Revenue: $18.64, Gross Income: $0.89, Rating: 8.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Fashion accessories, Total Revenue: $652.89, Gross Income: $31.09, Rating: 6.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Health and beauty, Total Revenue: $90.30, Gross Income: $4.30, Rating: 6.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $422.73, Gross Income: $20.13, Rating: 5.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Sports and travel, Total Revenue: $341.09, Gross Income: $16.24, Rating: 6.5/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $99.91, Gross Income: $4.76, Rating: 6.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Electronic accessories, Total Revenue: $408.41, Gross Income: $19.45, Rating: 5.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Food and beverages, Total Revenue: $446.96, Gross Income: $21.28, Rating: 5.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Fashion accessories, Total Revenue: $333.98, Gross Income: $15.90, Rating: 9.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Food and beverages, Total Revenue: $284.59, Gross Income: $13.55, Rating: 9.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Health and beauty, Total Revenue: $403.87, Gross Income: $19.23, Rating: 8.4/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $247.59, Gross Income: $11.79, Rating: 6.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $222.14, Gross Income: $10.58, Rating: 6.7/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Home and lifestyle, Total Revenue: $100.13, Gross Income: $4.77, Rating: 4.1/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Sports and travel, Total Revenue: $10.68, Gross Income: $0.51, Rating: 5.9/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Health and beauty, Total Revenue: $216.44, Gross Income: $10.31, Rating: 8.7/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Sports and travel, Total Revenue: $441.59, Gross Income: $21.03, Rating: 4.5/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Sports and travel, Total Revenue: $92.44, Gross Income: $4.40, Rating: 6.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Health and beauty, Total Revenue: $681.44, Gross Income: $32.45, Rating: 7.7/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Fashion accessories, Total Revenue: $130.03, Gross Income: $6.19, Rating: 8.5/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $681.98, Gross Income: $32.48, Rating: 5.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Electronic accessories, Total Revenue: $779.31, Gross Income: $37.11, Rating: 4.3/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $88.70, Gross Income: $4.22, Rating: 7.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Health and beauty, Total Revenue: $262.79, Gross Income: $12.51, Rating: 9.5/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Sports and travel, Total Revenue: $99.54, Gross Income: $4.74, Rating: 4.1/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Health and beauty, Total Revenue: $95.86, Gross Income: $4.57, Rating: 9.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Home and lifestyle, Total Revenue: $299.37, Gross Income: $14.26, Rating: 5.4/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Fashion accessories, Total Revenue: $55.00, Gross Income: $2.62, Rating: 5.8/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Fashion accessories, Total Revenue: $202.34, Gross Income: $9.63, Rating: 5.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Sports and travel, Total Revenue: $281.17, Gross Income: $13.39, Rating: 5.1/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $586.63, Gross Income: $27.93, Rating: 5.8/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Sports and travel, Total Revenue: $184.09, Gross Income: $8.77, Rating: 5.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Fashion accessories, Total Revenue: $163.61, Gross Income: $7.79, Rating: 7.9/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $63.31, Gross Income: $3.02, Rating: 6.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Sports and travel, Total Revenue: $82.89, Gross Income: $3.95, Rating: 5.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $31.23, Gross Income: $1.49, Rating: 8.9/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Fashion accessories, Total Revenue: $22.39, Gross Income: $1.07, Rating: 5.9/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Electronic accessories, Total Revenue: $295.41, Gross Income: $14.07, Rating: 5.9/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Electronic accessories, Total Revenue: $76.92, Gross Income: $3.66, Rating: 9.7/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Sports and travel, Total Revenue: $23.50, Gross Income: $1.12, Rating: 8.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $688.72, Gross Income: $32.80, Rating: 4.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Fashion accessories, Total Revenue: $624.33, Gross Income: $29.73, Rating: 4.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Fashion accessories, Total Revenue: $77.81, Gross Income: $3.71, Rating: 9.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Fashion accessories, Total Revenue: $206.81, Gross Income: $9.85, Rating: 9.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Health and beauty, Total Revenue: $390.95, Gross Income: $18.62, Rating: 5.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $554.29, Gross Income: $26.39, Rating: 10.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Health and beauty, Total Revenue: $503.74, Gross Income: $23.99, Rating: 8.8/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Fashion accessories, Total Revenue: $345.02, Gross Income: $16.43, Rating: 4.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Food and beverages, Total Revenue: $177.41, Gross Income: $8.45, Rating: 6.3/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Home and lifestyle, Total Revenue: $118.90, Gross Income: $5.66, Rating: 8.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Health and beauty, Total Revenue: $362.82, Gross Income: $17.28, Rating: 5.1/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $450.10, Gross Income: $21.43, Rating: 5.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Home and lifestyle, Total Revenue: $90.58, Gross Income: $4.31, Rating: 7.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Sports and travel, Total Revenue: $26.80, Gross Income: $1.28, Rating: 7.8/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Home and lifestyle, Total Revenue: $106.60, Gross Income: $5.08, Rating: 4.3/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Home and lifestyle, Total Revenue: $375.36, Gross Income: $17.87, Rating: 7.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Electronic accessories, Total Revenue: $250.71, Gross Income: $11.94, Rating: 6.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Health and beauty, Total Revenue: $106.50, Gross Income: $5.07, Rating: 7.3/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Sports and travel, Total Revenue: $760.45, Gross Income: $36.21, Rating: 6.5/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Health and beauty, Total Revenue: $131.92, Gross Income: $6.28, Rating: 4.9/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $76.58, Gross Income: $3.65, Rating: 4.3/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Sports and travel, Total Revenue: $271.28, Gross Income: $12.92, Rating: 9.3/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $182.43, Gross Income: $8.69, Rating: 7.1/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Fashion accessories, Total Revenue: $59.33, Gross Income: $2.83, Rating: 9.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Electronic accessories, Total Revenue: $225.01, Gross Income: $10.71, Rating: 6.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Sports and travel, Total Revenue: $561.08, Gross Income: $26.72, Rating: 9.9/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Home and lifestyle, Total Revenue: $97.82, Gross Income: $4.66, Rating: 5.9/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Home and lifestyle, Total Revenue: $548.18, Gross Income: $26.10, Rating: 6.3/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Fashion accessories, Total Revenue: $54.97, Gross Income: $2.62, Rating: 4.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Electronic accessories, Total Revenue: $41.74, Gross Income: $1.99, Rating: 6.1/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $756.17, Gross Income: $36.01, Rating: 4.5/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Electronic accessories, Total Revenue: $101.64, Gross Income: $4.84, Rating: 8.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $348.70, Gross Income: $16.61, Rating: 6.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Fashion accessories, Total Revenue: $85.51, Gross Income: $4.07, Rating: 9.5/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Sports and travel, Total Revenue: $335.89, Gross Income: $15.99, Rating: 9.9/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Home and lifestyle, Total Revenue: $216.85, Gross Income: $10.33, Rating: 7.5/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $175.01, Gross Income: $8.33, Rating: 7.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Sports and travel, Total Revenue: $335.01, Gross Income: $15.95, Rating: 5.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $92.30, Gross Income: $4.39, Rating: 6.7/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Electronic accessories, Total Revenue: $771.43, Gross Income: $36.73, Rating: 9.5/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Fashion accessories, Total Revenue: $102.40, Gross Income: $4.88, Rating: 6.8/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Sports and travel, Total Revenue: $807.66, Gross Income: $38.46, Rating: 5.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Health and beauty, Total Revenue: $439.21, Gross Income: $20.91, Rating: 7.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $486.44, Gross Income: $23.16, Rating: 8.1/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Fashion accessories, Total Revenue: $485.57, Gross Income: $23.12, Rating: 8.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $149.00, Gross Income: $7.09, Rating: 9.4/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Electronic accessories, Total Revenue: $317.83, Gross Income: $15.13, Rating: 8.9/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Health and beauty, Total Revenue: $832.94, Gross Income: $39.66, Rating: 4.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Fashion accessories, Total Revenue: $446.44, Gross Income: $21.26, Rating: 5.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $297.80, Gross Income: $14.18, Rating: 8.8/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Health and beauty, Total Revenue: $629.16, Gross Income: $29.96, Rating: 5.3/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $331.13, Gross Income: $15.77, Rating: 4.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Electronic accessories, Total Revenue: $423.74, Gross Income: $20.18, Rating: 7.5/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Home and lifestyle, Total Revenue: $193.07, Gross Income: $9.19, Rating: 5.1/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Health and beauty, Total Revenue: $145.58, Gross Income: $6.93, Rating: 4.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Food and beverages, Total Revenue: $84.75, Gross Income: $4.04, Rating: 8.1/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Health and beauty, Total Revenue: $122.47, Gross Income: $5.83, Rating: 6.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Home and lifestyle, Total Revenue: $329.20, Gross Income: $15.68, Rating: 7.9/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Health and beauty, Total Revenue: $888.40, Gross Income: $42.30, Rating: 8.8/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Health and beauty, Total Revenue: $435.12, Gross Income: $20.72, Rating: 6.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $167.03, Gross Income: $7.95, Rating: 6.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Home and lifestyle, Total Revenue: $514.61, Gross Income: $24.50, Rating: 4.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $91.82, Gross Income: $4.37, Rating: 7.3/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $235.75, Gross Income: $11.23, Rating: 8.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Home and lifestyle, Total Revenue: $782.21, Gross Income: $37.25, Rating: 6.8/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Fashion accessories, Total Revenue: $431.26, Gross Income: $20.54, Rating: 7.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $313.74, Gross Income: $14.94, Rating: 5.8/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $223.59, Gross Income: $10.65, Rating: 4.1/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Sports and travel, Total Revenue: $44.99, Gross Income: $2.14, Rating: 9.3/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Fashion accessories, Total Revenue: $397.61, Gross Income: $18.93, Rating: 6.8/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Home and lifestyle, Total Revenue: $217.26, Gross Income: $10.35, Rating: 8.7/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Electronic accessories, Total Revenue: $82.72, Gross Income: $3.94, Rating: 6.3/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Home and lifestyle, Total Revenue: $338.22, Gross Income: $16.11, Rating: 5.1/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Home and lifestyle, Total Revenue: $103.13, Gross Income: $4.91, Rating: 7.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Home and lifestyle, Total Revenue: $26.73, Gross Income: $1.27, Rating: 5.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Sports and travel, Total Revenue: $611.08, Gross Income: $29.10, Rating: 6.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Sports and travel, Total Revenue: $221.89, Gross Income: $10.57, Rating: 6.5/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $57.88, Gross Income: $2.76, Rating: 9.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Sports and travel, Total Revenue: $92.73, Gross Income: $4.42, Rating: 5.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Health and beauty, Total Revenue: $374.41, Gross Income: $17.83, Rating: 6.8/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $833.96, Gross Income: $39.71, Rating: 7.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Sports and travel, Total Revenue: $53.15, Gross Income: $2.53, Rating: 7.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Home and lifestyle, Total Revenue: $629.50, Gross Income: $29.98, Rating: 7.1/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Fashion accessories, Total Revenue: $175.03, Gross Income: $8.34, Rating: 9.5/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Food and beverages, Total Revenue: $781.62, Gross Income: $37.22, Rating: 5.1/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Health and beauty, Total Revenue: $470.99, Gross Income: $22.43, Rating: 7.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Home and lifestyle, Total Revenue: $397.85, Gross Income: $18.95, Rating: 9.8/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Home and lifestyle, Total Revenue: $270.02, Gross Income: $12.86, Rating: 5.1/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Health and beauty, Total Revenue: $579.84, Gross Income: $27.61, Rating: 7.5/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Sports and travel, Total Revenue: $469.77, Gross Income: $22.37, Rating: 7.4/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Health and beauty, Total Revenue: $290.08, Gross Income: $13.81, Rating: 4.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Food and beverages, Total Revenue: $360.93, Gross Income: $17.19, Rating: 5.9/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Food and beverages, Total Revenue: $279.38, Gross Income: $13.30, Rating: 6.9/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Fashion accessories, Total Revenue: $943.30, Gross Income: $44.92, Rating: 6.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Home and lifestyle, Total Revenue: $479.64, Gross Income: $22.84, Rating: 5.7/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Health and beauty, Total Revenue: $266.65, Gross Income: $12.70, Rating: 5.3/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Health and beauty, Total Revenue: $74.09, Gross Income: $3.53, Rating: 4.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $690.02, Gross Income: $32.86, Rating: 7.3/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Electronic accessories, Total Revenue: $176.93, Gross Income: $8.43, Rating: 5.3/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Fashion accessories, Total Revenue: $56.47, Gross Income: $2.69, Rating: 4.7/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Home and lifestyle, Total Revenue: $188.00, Gross Income: $8.95, Rating: 7.9/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Food and beverages, Total Revenue: $222.01, Gross Income: $10.57, Rating: 8.9/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Health and beauty, Total Revenue: $125.72, Gross Income: $5.99, Rating: 9.3/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Home and lifestyle, Total Revenue: $68.98, Gross Income: $3.29, Rating: 4.7/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $263.97, Gross Income: $12.57, Rating: 8.7/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $88.37, Gross Income: $4.21, Rating: 7.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Home and lifestyle, Total Revenue: $415.23, Gross Income: $19.77, Rating: 5.7/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Fashion accessories, Total Revenue: $312.89, Gross Income: $14.90, Rating: 6.8/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $477.13, Gross Income: $22.72, Rating: 5.4/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $289.93, Gross Income: $13.81, Rating: 7.1/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Home and lifestyle, Total Revenue: $165.90, Gross Income: $7.90, Rating: 7.8/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $932.34, Gross Income: $44.40, Rating: 8.4/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Fashion accessories, Total Revenue: $96.58, Gross Income: $4.60, Rating: 9.8/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Electronic accessories, Total Revenue: $43.87, Gross Income: $2.09, Rating: 9.8/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Fashion accessories, Total Revenue: $16.27, Gross Income: $0.78, Rating: 7.4/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Electronic accessories, Total Revenue: $304.98, Gross Income: $14.52, Rating: 6.7/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Food and beverages, Total Revenue: $69.99, Gross Income: $3.33, Rating: 6.4/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $80.37, Gross Income: $3.83, Rating: 5.8/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Home and lifestyle, Total Revenue: $314.69, Gross Income: $14.98, Rating: 7.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Home and lifestyle, Total Revenue: $255.18, Gross Income: $12.15, Rating: 9.3/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Health and beauty, Total Revenue: $49.77, Gross Income: $2.37, Rating: 9.5/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Electronic accessories, Total Revenue: $181.07, Gross Income: $8.62, Rating: 9.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $888.62, Gross Income: $42.31, Rating: 9.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Home and lifestyle, Total Revenue: $271.29, Gross Income: $12.92, Rating: 6.7/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $640.04, Gross Income: $30.48, Rating: 5.5/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Home and lifestyle, Total Revenue: $252.25, Gross Income: $12.01, Rating: 5.4/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Fashion accessories, Total Revenue: $180.87, Gross Income: $8.61, Rating: 8.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Fashion accessories, Total Revenue: $104.83, Gross Income: $4.99, Rating: 7.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Food and beverages, Total Revenue: $313.57, Gross Income: $14.93, Rating: 8.5/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $167.58, Gross Income: $7.98, Rating: 4.9/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $26.72, Gross Income: $1.27, Rating: 5.1/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Food and beverages, Total Revenue: $71.16, Gross Income: $3.39, Rating: 6.5/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $250.28, Gross Income: $11.92, Rating: 9.8/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Health and beauty, Total Revenue: $244.23, Gross Income: $11.63, Rating: 8.4/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Sports and travel, Total Revenue: $921.19, Gross Income: $43.87, Rating: 7.4/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Health and beauty, Total Revenue: $734.71, Gross Income: $34.99, Rating: 6.1/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $708.32, Gross Income: $33.73, Rating: 6.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Fashion accessories, Total Revenue: $334.48, Gross Income: $15.93, Rating: 8.5/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Health and beauty, Total Revenue: $31.00, Gross Income: $1.48, Rating: 4.3/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Health and beauty, Total Revenue: $520.80, Gross Income: $24.80, Rating: 6.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Electronic accessories, Total Revenue: $864.57, Gross Income: $41.17, Rating: 4.3/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Member, Product Line: Health and beauty, Total Revenue: $633.11, Gross Income: $30.15, Rating: 8.4/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Food and beverages, Total Revenue: $296.94, Gross Income: $14.14, Rating: 4.5/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Sports and travel, Total Revenue: $804.30, Gross Income: $38.30, Rating: 6.0/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Electronic accessories, Total Revenue: $121.86, Gross Income: $5.80, Rating: 8.8/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Fashion accessories, Total Revenue: $183.65, Gross Income: $8.74, Rating: 6.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Member, Product Line: Electronic accessories, Total Revenue: $64.00, Gross Income: $3.05, Rating: 5.9/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: C, Customer Type: Normal, Product Line: Health and beauty, Total Revenue: $42.37, Gross Income: $2.02, Rating: 6.2/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: B, Customer Type: Normal, Product Line: Home and lifestyle, Total Revenue: $1022.49, Gross Income: $48.69, Rating: 4.4/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Food and beverages, Total Revenue: $33.43, Gross Income: $1.59, Rating: 7.7/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Normal, Product Line: Home and lifestyle, Total Revenue: $69.11, Gross Income: $3.29, Rating: 4.1/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    },
+    {
+        "text": "Market Research Analysis -> Branch: A, Customer Type: Member, Product Line: Fashion accessories, Total Revenue: $649.30, Gross Income: $30.92, Rating: 6.6/5.0. Business Insight: Transaction highlights key purchasing behavior and category performance."
+    }
+]
